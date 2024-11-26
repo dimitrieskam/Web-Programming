@@ -1,0 +1,37 @@
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Songs Homepage - Welcome to My Music Store</title>
+    <style type="text/css">
+        body {
+            width: 800px;
+            margin: auto;
+        }
+    </style>
+
+
+</head>
+
+<body>
+<header>
+    <h1>Welcome to My Music Store</h1>
+</header>
+<a href="/songs/add-form">Add New Song</a>
+<main>
+    <h2>Choose a song:</h2>
+    <form th:action="@{/songs}" method="post">
+        <ul>
+            <li th:each="song : ${songs}">
+                <input type="radio" name="trackId" th:value="${song.trackId}" required>
+                <span th:text="'Title: ' + ${song.title} + ', Genre: ' + ${song.genre} + ', Release Year: ' + ${song.releaseYear} + ', Album: ' + ${song.album.name}"></span>
+                <a th:href="@{'/songs/edit-form/{id}' (id=${song.getId()})}">Edit</a>
+                <a th:href="@{'/songs/delete/' + ${song.id}}" onclick="return confirm('Are you sure you want to delete this song?');">Delete</a>
+
+            </li>
+        </ul>
+
+        <input type="submit" value="Submit"/>
+    </form>
+</main>
+</body>
+</html>
