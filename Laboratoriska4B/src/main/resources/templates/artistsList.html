@@ -1,0 +1,64 @@
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title>Add new Performer to Song</title>
+    <style type = "text/css">
+        body {
+            width: 800px;
+            margin: auto;
+        }
+        table {
+            width:100%;
+        }
+        table, td, th {
+            border: 1px solid black;
+            padding:3px 2px;
+        }
+        section {
+            float: left;
+            margin: 0 1.5%;
+            width: 63%;
+        }
+        aside {
+            float: right;
+            margin: 0 1.5%;
+            width: 30%;
+        }
+    </style>
+</head>
+<body>
+<header>
+<!--    <h1>Artists for Song: <span th:text="${trackId}"></span></h1>-->
+</header>
+<main>
+<section>
+    <h2>Select artist:</h2>
+    <!-- Make changes to this code to dynamically display radio buttons for each artist as in the example -->
+    <form th:action="@{/artist}" method="post">
+        <input type="hidden" name="trackId" th:value="${trackId}">
+        <ul th:each="artist : ${artists}">
+           <li>
+               <input type="radio" name="artistId" th:value="${artist.id}"
+                      th:text="| FirstName: ${artist.firstName},
+                      LastName: ${artist.lastName}, Bio: ${artist.bio}|"/>
+            </li>
+        </ul>
+        <br/>
+<!--        <input type="hidden" name="trackId" th:value="${trackId}">-->
+        <input type='submit' value='Add artist'>
+    </form>
+
+</section>
+<aside>
+    <table>
+        <tr>
+            <!-- change to show selected trackId -->
+            <td><b>Track Id</b></td>
+            <td th:text="|ID selected: ${trackId}|"></td>
+        </tr>
+    </table>
+</aside>
+</main>
+</body>
+</html>

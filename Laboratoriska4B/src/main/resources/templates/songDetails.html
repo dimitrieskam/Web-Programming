@@ -1,0 +1,32 @@
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Song Details</title>
+
+</head>
+<body>
+<section>
+    <h3>The song is: <span th:text="${song.title}"></span></h3>
+    <form method="post" action="/artist">
+
+            <ul>
+                <li>Genre: <span th:text="${song.genre}"></span></li>
+                <li>Release Year: <span th:text="${song.releaseYear}"></span></li>
+                <li>Album: <span th:text="${song.album.name}"></span></li>
+
+            </ul>
+
+
+    <h3>Performers:</h3>
+        <ul th:each="performer : ${song.performers}">
+            <li>
+                <h4 style="font-weight: bold; font-style: italic" th:text="${performer.firstName} + ' ' + ${performer.lastName}"></h4>
+                <p style="font-style: italic" th:text="'Description: ' + ${performer.bio}"></p>
+            </li>
+        </ul>
+    </form>
+
+</section>
+
+</body>
+</html>
