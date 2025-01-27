@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAANpdN4N+Pl0ijHdQGrPPkHQAAAAACAAAAAAAQZgAAAAEAACAAAAAuAOqeDrU78ufr583MjvV34GOce/0YZDhXgmnzs+8F6AAAAAAOgAAAAAIAACAAAADfaItoJ9hG4A5cmrRAfVTuE/mBL9wya9lkii9hX21edoAAAAA6js3ymlyHGlYaIw82pFE7vU35rNdgWp0tqzVr/DE2UrcsUl2CASWOROLHWba8R2AVYw44MomHdJrFvhhVfwnyUZuKV8QX6rr6JBU5aLNRvL/51x5IYoWx6qugFq9w0jK5zJCmqIOpB3+iGX3KKFVe3J149dZF5LZLMkc6EiyK7kAAAABOJMEWgQiqhCS3w8qVo+hRA4cJKGDTFO/ub7zPX7psStWDV+MG4WBp79Ai8UeZY6e5b4iyUiLDFaInvGMPhkyE</EncryptedPassword>
+    <History>True|2025-01-22T23:19:04.7163400Z;True|2025-01-23T00:16:00.6601306+01:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="DefaultConnection">
+      <Value>Data Source=september99999.database.windows.net,1433%3bInitial Catalog=Web_db%3bUser ID=dimitrieskam%3bPassword=Marija%2a123</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+  <ItemGroup>
+    <EFMigrations Include="Repository.ApplicationDbContext">
+      <Value>Data Source=september99999.database.windows.net,1433%3bInitial Catalog=Web_db%3bUser ID=dimitrieskam%3bPassword=Marija%2a123</Value>
+    </EFMigrations>
+  </ItemGroup>
+</Project>

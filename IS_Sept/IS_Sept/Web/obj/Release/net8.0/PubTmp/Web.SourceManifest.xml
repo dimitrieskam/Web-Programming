@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitemanifest>
+  <IisApp path="C:\Users\User5452\Desktop\Fakultet\shesti semestar\Integrirani Sistemi\Labs\IS_Sept (1)\IS_Sept\Web\obj\Release\net8.0\PubTmp\Out\" />
+  <dbfullsql path="C:\Users\User5452\Desktop\Fakultet\shesti semestar\Integrirani Sistemi\Labs\IS_Sept (1)\IS_Sept\Web\obj\Release\net8.0\PubTmp\EFSQLScripts\Repository.ApplicationDbContext.sql" />
+</sitemanifest>

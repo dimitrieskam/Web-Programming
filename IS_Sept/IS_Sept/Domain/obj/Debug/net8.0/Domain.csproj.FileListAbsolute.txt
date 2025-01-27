@@ -1,0 +1,42 @@
+C:\Users\student\Downloads\IS_Sept\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\Users\student\Downloads\IS_Sept\Domain\bin\Debug\net8.0\Domain.runtimeconfig.json
+C:\Users\student\Downloads\IS_Sept\Domain\bin\Debug\net8.0\Domain.dll
+C:\Users\student\Downloads\IS_Sept\Domain\bin\Debug\net8.0\Domain.pdb
+C:\Users\student\Downloads\IS_Sept\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
+C:\Users\student\Downloads\IS_Sept\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\Downloads\IS_Sept\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\Users\student\Downloads\IS_Sept\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\Users\student\Downloads\IS_Sept\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\student\Downloads\IS_Sept\Domain\obj\Debug\net8.0\Domain.dll
+C:\Users\student\Downloads\IS_Sept\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\Users\student\Downloads\IS_Sept\Domain\obj\Debug\net8.0\Domain.pdb
+C:\Users\student\Downloads\IS_Sept\Domain\obj\Debug\net8.0\Domain.genruntimeconfig.cache
+C:\Users\student\Downloads\IS_Sept\Domain\obj\Debug\net8.0\ref\Domain.dll
+C:\Users\211134\Downloads\IS_Sept\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\Users\211134\Downloads\IS_Sept\Domain\bin\Debug\net8.0\Domain.runtimeconfig.json
+C:\Users\211134\Downloads\IS_Sept\Domain\bin\Debug\net8.0\Domain.dll
+C:\Users\211134\Downloads\IS_Sept\Domain\bin\Debug\net8.0\Domain.pdb
+C:\Users\211134\Downloads\IS_Sept\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
+C:\Users\211134\Downloads\IS_Sept\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\211134\Downloads\IS_Sept\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\Users\211134\Downloads\IS_Sept\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\Users\211134\Downloads\IS_Sept\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\211134\Downloads\IS_Sept\Domain\obj\Debug\net8.0\Domain.dll
+C:\Users\211134\Downloads\IS_Sept\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\Users\211134\Downloads\IS_Sept\Domain\obj\Debug\net8.0\Domain.pdb
+C:\Users\211134\Downloads\IS_Sept\Domain\obj\Debug\net8.0\Domain.genruntimeconfig.cache
+C:\Users\211134\Downloads\IS_Sept\Domain\obj\Debug\net8.0\ref\Domain.dll
+C:\Users\User5452\Desktop\Fakultet\shesti semestar\Integrirani Sistemi\Labs\IS_Sept (1)\IS_Sept\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\Users\User5452\Desktop\Fakultet\shesti semestar\Integrirani Sistemi\Labs\IS_Sept (1)\IS_Sept\Domain\bin\Debug\net8.0\Domain.runtimeconfig.json
+C:\Users\User5452\Desktop\Fakultet\shesti semestar\Integrirani Sistemi\Labs\IS_Sept (1)\IS_Sept\Domain\bin\Debug\net8.0\Domain.dll
+C:\Users\User5452\Desktop\Fakultet\shesti semestar\Integrirani Sistemi\Labs\IS_Sept (1)\IS_Sept\Domain\bin\Debug\net8.0\Domain.pdb
+C:\Users\User5452\Desktop\Fakultet\shesti semestar\Integrirani Sistemi\Labs\IS_Sept (1)\IS_Sept\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
+C:\Users\User5452\Desktop\Fakultet\shesti semestar\Integrirani Sistemi\Labs\IS_Sept (1)\IS_Sept\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User5452\Desktop\Fakultet\shesti semestar\Integrirani Sistemi\Labs\IS_Sept (1)\IS_Sept\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\Users\User5452\Desktop\Fakultet\shesti semestar\Integrirani Sistemi\Labs\IS_Sept (1)\IS_Sept\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\Users\User5452\Desktop\Fakultet\shesti semestar\Integrirani Sistemi\Labs\IS_Sept (1)\IS_Sept\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\User5452\Desktop\Fakultet\shesti semestar\Integrirani Sistemi\Labs\IS_Sept (1)\IS_Sept\Domain\obj\Debug\net8.0\Domain.dll
+C:\Users\User5452\Desktop\Fakultet\shesti semestar\Integrirani Sistemi\Labs\IS_Sept (1)\IS_Sept\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\Users\User5452\Desktop\Fakultet\shesti semestar\Integrirani Sistemi\Labs\IS_Sept (1)\IS_Sept\Domain\obj\Debug\net8.0\Domain.pdb
+C:\Users\User5452\Desktop\Fakultet\shesti semestar\Integrirani Sistemi\Labs\IS_Sept (1)\IS_Sept\Domain\obj\Debug\net8.0\Domain.genruntimeconfig.cache
+C:\Users\User5452\Desktop\Fakultet\shesti semestar\Integrirani Sistemi\Labs\IS_Sept (1)\IS_Sept\Domain\obj\Debug\net8.0\ref\Domain.dll
